@@ -1,0 +1,9 @@
+streamlit
+nltk
+scikit-learn
+bs4
+sklearn
+distance
+stopwords
+
+
