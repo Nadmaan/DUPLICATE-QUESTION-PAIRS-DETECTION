@@ -1,1 +1,1 @@
-# duplicate-question-detection
+# DUPLICATE QUESTION PAIRS DETECTION 
