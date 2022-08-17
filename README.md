@@ -37,6 +37,8 @@ Heruko Deployment
 **7. APP Link**
 https://nadmaan-dup-ques.herokuapp.com/
 ![App in action ](https://user-images.githubusercontent.com/83595856/185229682-b6575d8b-824d-4502-bf93-575c6d6e41df.jpg)
+![not duplicate example](https://user-images.githubusercontent.com/83595856/185230208-3a7d6cad-1eb1-42ee-8afb-b9d39fed34ac.jpg)
+
 
 
 
